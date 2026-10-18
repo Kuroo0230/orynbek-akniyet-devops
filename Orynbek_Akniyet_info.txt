@@ -3,3 +3,4 @@ Surname: Orynbek
 Group: IT2-2310
 Student ID: 38385
 Course: DevOps
+CI/CD Integration: Completed
